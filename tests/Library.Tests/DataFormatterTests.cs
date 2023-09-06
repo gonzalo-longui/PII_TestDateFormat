@@ -1,6 +1,7 @@
 using NUnit.Framework;
-namespace Library.Tests
+namespace TestDateFormat
 {
+    [TestFixture]
     public class Tests
     {
         [Test]
